@@ -4,6 +4,10 @@
 
 #include <test.h>
 
+int square(int x) {
+    return x * x;
+}
+
 int main(int argc, char ** argv) {
 
   // Check # of arguments

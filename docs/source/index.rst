@@ -7,3 +7,5 @@ Docs
 .. doxygenstruct:: Test
    :members:
 
+.. doxygenfunction:: square
+

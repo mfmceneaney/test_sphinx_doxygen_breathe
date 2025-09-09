@@ -5,6 +5,18 @@
 #pragma once
 
 /**
+ * \brief Squares a number.
+ *
+ * This function multiplies a given number by itself, which results in the
+ * square of that number.
+ *
+ * \param x The number to square.
+ *
+ * \return The square of the number.
+ */
+int square(int x);
+
+/**
    A test structure
 */
 struct Test {
